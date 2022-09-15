@@ -1,7 +1,21 @@
-[HOME](https://github.com/TGevinT/os222) | [LOG](https://github.com/TGevinT/os222/blob/master/TXT/mylog.txt) | [LINKS](https://github.com/TGevinT/os222/blob/master/links.md) | [GitHub](https://github.com/TGevinT/os222)
-
-Hello!
-My name is Teuku Gevin Taufan (2106750194)
-
-
-This is my static website for System Operation (OS222) course
+---
+---
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<br><br>
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[TIPS]({{ site.baseurl }}/TIPS/) ---
+[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[TARBALL](SandBox/cbkadal.tar.xz) ---
+[GITHUB]({{ site.githublink }})
+<br>
+<hr>
+This is {{ site.title }} and I am {{ site.author }}.
+<br><br>
+This is the way!
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
