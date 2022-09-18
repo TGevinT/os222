@@ -15,3 +15,27 @@ permalink: LINKS/
 
 # LINKS
 
+## Week 00
+1. [What Do You Need To Know About Operating Systems?](https://hailbytes.com/what-do-you-need-to-know-about-operating-systems/)<br>
+Before starting something, we must know what things we need to know before starting it, learning operating systems is like that too.
+
+## Week 01
+1. [Basic Linux Commands](https://linuxopsys.com/topics/basic-linux-commands)<br>
+Lots of Linux commands should to know and for beginners its very hard to remember all of them. Then this link will help to remember important things of linux commands for beginners.
+
+2. [Basic VIM](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>
+This tutorial helpfull me to write and read file in linux, hopefully you too.
+
+3. [Linux Man Pages](https://www.youtube.com/watch?v=uJnrh9hAQR0)<br>
+Man is the built-in help system in linux and man page is documentation for given programs or commands. This is quick tutorial how to use it in Linux.
+
+## Week 02
+1. [Cyber Security](https://www.youtube.com/watch?v=rcDO8km6R6c)<br>
+This video helps you to know what Cyber Security is and how important it's
+
+2. [Internet Safety](https://usa.kaspersky.com/resource-center/preemptive-safety/top-10-internet-safety-rules-and-what-not-to-do-online)<br>
+Nowadays, there're so many personal data leaks due to indiscriminate surfing, such as providing personal data to phishing websites that are mistaken for real websites. In this link, it will be provide some beginner’s guide to internet safety and privacy
+
+3. [C Language](https://www.youtube.com/watch?v=87SH2Cn0s9A)<br>
+This tutorial full course for beginners about C language, really helped me and hopefully you too
+
