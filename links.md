@@ -39,3 +39,12 @@ Nowadays, there're so many personal data leaks due to indiscriminate surfing, su
 3. [C Language](https://www.youtube.com/watch?v=87SH2Cn0s9A)<br>
 This tutorial full course for beginners about C language, really helped me and hopefully you too
 
+## Week 03
+1. [File Concepts](https://notesformsc.org/file-concepts/#:~:text=A%20file%20is%20named%20collection,by%20its%20owner%20or%20creator.)<br>
+This link will usefull if you want to know concepts of file
+
+2. [Free Space Management in OS](https://www.geeksforgeeks.org/free-space-management-in-operating-system/)<br>
+Ways to implement free space in OS
+
+3. [File Sharing](https://www.techtarget.com/searchmobilecomputing/definition/file-sharing)<br>
+In this century, file sharing is very important dan useful. In this link, you may to know how file sharing work.
