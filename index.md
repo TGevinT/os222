@@ -7,7 +7,7 @@
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
+[TARBALL](https://os.vlsm.org/Log/TGevinT.tar.bz2.txt) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
