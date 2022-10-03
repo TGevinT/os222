@@ -48,3 +48,7 @@ Ways to implement free space in OS
 
 3. [File Sharing](https://www.techtarget.com/searchmobilecomputing/definition/file-sharing)<br>
 In this century, file sharing is very important dan useful. In this link, you may to know how file sharing work.
+
+## Week 04
+1. [Logical Address vs Physical Addres](https://techdifferences.com/difference-between-logical-and-physical-address.html)<br>
+Difference between logical and Pyhsical address in operating system
