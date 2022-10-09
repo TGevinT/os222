@@ -52,3 +52,10 @@ In this century, file sharing is very important dan useful. In this link, you ma
 ## Week 04
 1. [Logical Address vs Physical Addres](https://techdifferences.com/difference-between-logical-and-physical-address.html)<br>
 Difference between logical and Pyhsical address in operating system
+
+## Week 05
+1. [Big Endian and Little Endian](https://chortle.ccsu.edu/assemblytutorial/Chapter-15/ass15_3.html)<br>
+This is the way of mapping little endian and big endian in memory
+
+2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+This is a brief explanation of virtual memory in OS
