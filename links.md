@@ -59,3 +59,10 @@ This is the way of mapping little endian and big endian in memory
 
 2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 This is a brief explanation of virtual memory in OS
+
+## Week 06
+1. [Concurrency vs Parallelism](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)<br>
+Concurrency is progress on more than one task at the same time and parallelism is split task into smaller subtask that can be processed in parallel at the same time
+
+2. [Init system](https://fedoramagazine.org/what-is-an-init-system/)<br>
+Init system is the first process after started karnel system. This is about what is init system
