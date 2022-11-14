@@ -68,8 +68,8 @@ Concurrency is progress on more than one task at the same time and parallelism i
 Init system is the first process after started karnel system. This is about what is init system
 
 ## Week 07
-1. [Critical Section] (https://www.geeksforgeeks.org/g-fact-70/)<br>
+1. [Critical Section](https://www.geeksforgeeks.org/g-fact-70/)<br>
 When more than one process uses the same code segment, the segment is called a critical section. The critical section contains variables or shared resources that must be synchronized to maintain variable data consistency
 
-2. [Deadlock Prevention And Avoidance] (https://www.geeksforgeeks.org/deadlock-prevention/)<br>
+2. [Deadlock Prevention And Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
 This web contains deadlock prevention, deadlock characteristics, eliminate mutual exclusion, and others about deadlock  
