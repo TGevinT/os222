@@ -73,3 +73,10 @@ When more than one process uses the same code segment, the segment is called a c
 
 2. [Deadlock Prevention And Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
 This web contains deadlock prevention, deadlock characteristics, eliminate mutual exclusion, and others about deadlock  
+
+## Week 08
+1. [Scheduling] (https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
+This some scheduling in os
+
+2. [Thread Scheduling] (https://www.geeksforgeeks.org/thread-scheduling/)
+Scheduling of threads involves two boundary scheduling and this link define it
