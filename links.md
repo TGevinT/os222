@@ -80,3 +80,10 @@ This some scheduling in os
 
 2. [Thread Scheduling](https://www.geeksforgeeks.org/thread-scheduling/)<br>
 Scheduling of threads involves two boundary scheduling and this link define it
+
+## Week 09
+1. [Master Boot Record (MBR)](https://www.techtarget.com/whatis/definition/Master-Boot-Record-MBR)<br>
+The Master Boot Record (MBR) is the information in the first sector of a hard disk or a removable drive. It identifies how and where the system's operating system (OS) is located in order to be booted (loaded) into the computer's main storage or random access memory (RAM).
+
+2. [Network-Attached Storage (NAS)](https://iosafe.com/data-protection-topics/what-is-a-nas-device/)<br>
+A network-attached storage (NAS) device is a data storage device that connects to and is accessed through a network, instead of connecting directly to a computer
