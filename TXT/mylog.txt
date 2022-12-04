@@ -166,3 +166,22 @@ ZCZC W09 10 L45 TXT/SHA256SUM related.
 ZCZC W09 200 L70 Studying SDA, ALIN, PBP, and, MPPI.
 ZCZC W09 110 L73 Playing PC and Mobile games.
 ZCZC W09 100 L99 Face-to-face lecture.
+ZCZC W10 100 L02 ZOOM meetings related.
+ZCZC W10 30 L03 GitHub and git related, including commit, push, pull.
+ZCZC W10 60 L04 Links.md for GitHub Pages related.
+ZCZC W10 60 L05 Quiz related including studying.
+ZCZC W10 30 L07 Ask friend for help Assignment OS Via Chat WA and LINE.
+ZCZC W10 160 L09 Assignment in general.
+ZCZC W10 10 L11 Assignment #01
+ZCZC W10 20 L12 Assignment #02
+ZCZC W10 420 L13 Assignment #03
+ZCZC W10 30 L14 Assignment #04
+ZCZC W10 60 L40 TXT/ related in general.
+ZCZC W10 20 L41 TXT/mylog.txt related.
+ZCZC W10 10 L42 TXT/mypubkey.txt related.
+ZCZC W10 10 L43 TXT/myrank.txt related,
+ZCZC W10 10 L44 TXT/myscript.sh related.
+ZCZC W10 10 L45 TXT/SHA256SUM related.
+ZCZC W10 200 L70 Studying SDA, ALIN, PBP, and, MPPI.
+ZCZC W10 110 L73 Playing PC and Mobile games.
+ZCZC W10 100 L99 Face-to-face lecture.

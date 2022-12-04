@@ -87,3 +87,10 @@ The Master Boot Record (MBR) is the information in the first sector of a hard di
 
 2. [Network-Attached Storage (NAS)](https://iosafe.com/data-protection-topics/what-is-a-nas-device/)<br>
 A network-attached storage (NAS) device is a data storage device that connects to and is accessed through a network, instead of connecting directly to a computer
+
+## Wekk 10
+1. [I/O}(https://www.bogotobogo.com/Embedded/memory_mapped_io_vs_port_mapped_isolated_io.php)<br>
+This link about Memory-mapped IO vs Port-mapped IO
+
+2. [Socket Programming](https://www.youtube.com/watch?v=u4kr7EFxAKk)<br>
+A socket is a communications connection point (endpoint) that you can name and address in a network. This link will make you understand about socket programming. 
